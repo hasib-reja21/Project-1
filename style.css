@@ -474,7 +474,7 @@ header.sticky{
  
 /*moving tips*/
 .tips-container{
-    background: var(--second-color);
+   
     margin-top: 10rem;
     gap: 5rem;
     display: grid;
@@ -485,9 +485,7 @@ header.sticky{
     font-size: 23px;
     color: orange;
 }
-.tips-container .tip-text{
-    margin-left: 40px;
-}
+
 .tips-container .tip-text p{
     font-size: 0.9rem;
     line-height: 1.8;
